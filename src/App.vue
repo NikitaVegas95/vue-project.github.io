@@ -1,14 +1,14 @@
 <script setup lang="ts">
-import LayoutHeader from "./components/Header/LayoutHeader.vue";
-import LayoutContent from "@/components/Content/LayoutContent.vue";
-import LayoutFooter from "@/components/Footer/LayoutFooter.vue";
+import LayoutHeader from './components/Header/LayoutHeader.vue'
+import LayoutContent from '@/components/Content/LayoutContent.vue'
+import LayoutFooter from '@/components/Footer/LayoutFooter.vue'
 </script>
 
 <template>
   <div class="wrapper">
-    <LayoutHeader/>
-    <LayoutContent/>
-    <LayoutFooter/>
+    <LayoutHeader />
+    <LayoutContent />
+    <LayoutFooter />
   </div>
 </template>
 
